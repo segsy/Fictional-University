@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-12 17:45+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core.php:19
+msgid "InfothemeWP"
+msgstr ""
+
+#: core.php:33
+msgid "INFOTHEME ADDONS"
+msgstr ""
+
+#: core.php:33
+msgid "Add Ons"
+msgstr ""
+
+#: it-epoll.php:59
+msgctxt "Post Type General Name"
+msgid "Poll"
+msgstr ""
+
+#: it-epoll.php:60
+msgctxt "Post Type Singular Name"
+msgid "Poll"
+msgstr ""
+
+#: it-epoll.php:61 it-epoll.php:62
+msgid "ePoll"
+msgstr ""
+
+#: it-epoll.php:63
+msgid "Parent Poll:"
+msgstr ""
+
+#: it-epoll.php:64
+msgid "All Polls"
+msgstr ""
+
+#: it-epoll.php:65
+msgid "Add New Poll"
+msgstr ""
+
+#: it-epoll.php:66
+msgid "Add New"
+msgstr ""
+
+#: it-epoll.php:67
+msgid "New Poll"
+msgstr ""
+
+#: it-epoll.php:68
+msgid "Edit Poll"
+msgstr ""
+
+#: it-epoll.php:69
+msgid "Update Poll"
+msgstr ""
+
+#: it-epoll.php:70
+msgid "View Poll"
+msgstr ""
+
+#: it-epoll.php:71
+msgid "Search Poll"
+msgstr ""
+
+#: it-epoll.php:72
+msgid "Not found"
+msgstr ""
+
+#: it-epoll.php:73
+msgid "Not found in Trash"
+msgstr ""
+
+#: it-epoll.php:76
+msgid "Poll"
+msgstr ""
+
+#: it-epoll.php:77
+msgid "Poll Description"
+msgstr ""
+
+#: it-epoll.php:238
+msgid "Total Options"
+msgstr ""
+
+#: it-epoll.php:239 backend/it_epoll_poll_metaboxes.php:53
+msgid "Poll Status"
+msgstr ""
+
+#: it-epoll.php:240
+msgid "Shortcode"
+msgstr ""
+
+#: it-epoll.php:241
+msgid "View Result"
+msgstr ""
+
+#: it-epoll.php:257
+msgid "Unable to get shortcode"
+msgstr ""
+
+#: module_config.php:17
+msgid "Voting System"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:9
+msgid "Add Poll Options"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:48
+msgid "Shortcode for this poll is : <code>[IT_EPOLL id=\""
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:60
+msgid "Enable OTP Voting"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:70
+msgid "Poll Style"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:78
+msgid "Multi Voting "
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:88
+msgid "Container Gradient"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:92
+msgid "Secondary Color"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:101
+msgid "Button & Progress Bar Style"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:151
+msgid "Option Name"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:157
+msgid "Option Image"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:162
+#: backend/it_epoll_poll_metaboxes.php:170
+msgid "Upload"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:166
+msgid "Option Cover Image"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:174
+msgid "Edit Vote Count / Result"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:195
+msgid "Add Option"
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:201
+msgid ""
+"Developed & Designed By <a href=\"http://www.infotheme.in\">InfoTheme Inc.</"
+"a> | For Customization <a href=\"https://infotheme.in/#contact\">Hire Us "
+"Today</a> | <a href=\"http://infotheme.in/products/plugins/epoll-wp-voting-"
+"system/#forum\">Support / Live Chat</a> | <a href=\"http://infotheme.in/"
+"products/plugins/epoll-wp-voting-system/#docs\">Documentation</a>"
+msgstr ""
+
+#: backend/it_epoll_widget.php:18
+msgid "Add A Poll - Epoll"
+msgstr ""
+
+#: backend/it_epoll_widget.php:21
+msgid "Add Poll via widget in sidebar"
+msgstr ""
+
+#: backend/it_epoll_widget.php:55
+msgid "Select A Poll:"
+msgstr ""
+
+#: backend/it_epoll_widget.php:84
+msgid "Poll Style in Widget:"
+msgstr ""
+
+#: frontend/it_epoll_poll-template.php:162 frontend/it_epoll_poll.php:187
+msgid ""
+"<p class=\"it_epoll_short_code\">Please add some questions or may be you "
+"missed the option field.</p><br><a href=\""
+msgstr ""
+
+#: frontend/it_epoll_poll-template.php:164 frontend/it_epoll_poll.php:189
+msgid ""
+"<p class=\"it_epoll_short_code\">This Poll is not yet ready contact site "
+"administrator</p>"
+msgstr ""

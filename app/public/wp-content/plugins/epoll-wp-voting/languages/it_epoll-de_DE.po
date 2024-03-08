@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-12 17:45+0530\n"
+"PO-Revision-Date: 2022-07-12 18:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: core.php:19
+msgid "InfothemeWP"
+msgstr ""
+
+#: core.php:33
+msgid "INFOTHEME ADDONS"
+msgstr ""
+
+#: core.php:33
+msgid "Add Ons"
+msgstr ""
+
+#: it-epoll.php:59
+msgctxt "Post Type General Name"
+msgid "Poll"
+msgstr "Umfrage"
+
+#: it-epoll.php:60
+msgctxt "Post Type Singular Name"
+msgid "Poll"
+msgstr "Umfrage"
+
+#: it-epoll.php:61 it-epoll.php:62
+msgid "ePoll"
+msgstr "ePoll"
+
+#: it-epoll.php:63
+msgid "Parent Poll:"
+msgstr "Elternumfrage:"
+
+#: it-epoll.php:64
+msgid "All Polls"
+msgstr "Alle Umfragen"
+
+#: it-epoll.php:65
+msgid "Add New Poll"
+msgstr "Neue Umfrage hinzufügen"
+
+#: it-epoll.php:66
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: it-epoll.php:67
+msgid "New Poll"
+msgstr "Neue Umfrage"
+
+#: it-epoll.php:68
+msgid "Edit Poll"
+msgstr "Umfrage bearbeiten"
+
+#: it-epoll.php:69
+msgid "Update Poll"
+msgstr "Umfrage aktualisieren"
+
+#: it-epoll.php:70
+msgid "View Poll"
+msgstr "Umfrage ansehen"
+
+#: it-epoll.php:71
+msgid "Search Poll"
+msgstr "Umfrage suchen"
+
+#: it-epoll.php:72
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+#: it-epoll.php:73
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#: it-epoll.php:76
+msgid "Poll"
+msgstr "Umfrage"
+
+#: it-epoll.php:77
+msgid "Poll Description"
+msgstr "Beschreibung der Umfrage"
+
+#: it-epoll.php:238
+msgid "Total Options"
+msgstr "Gesamtoptionen"
+
+#: it-epoll.php:239 backend/it_epoll_poll_metaboxes.php:53
+msgid "Poll Status"
+msgstr "Umfragestatus"
+
+#: it-epoll.php:240
+msgid "Shortcode"
+msgstr "Kurzwahl"
+
+#: it-epoll.php:241
+msgid "View Result"
+msgstr "Zeige Ergebnis"
+
+#: it-epoll.php:257
+msgid "Unable to get shortcode"
+msgstr "Shortcode kann nicht abgerufen werden"
+
+#: module_config.php:17
+msgid "Voting System"
+msgstr "Abstimmungssystem"
+
+#: backend/it_epoll_poll_metaboxes.php:9
+msgid "Add Poll Options"
+msgstr "Umfrageoptionen hinzufügen"
+
+#: backend/it_epoll_poll_metaboxes.php:48
+msgid "Shortcode for this poll is : <code>[IT_EPOLL id=\""
+msgstr ""
+
+#: backend/it_epoll_poll_metaboxes.php:60
+msgid "Enable OTP Voting"
+msgstr "OTP-Abstimmung aktivieren"
+
+#: backend/it_epoll_poll_metaboxes.php:70
+msgid "Poll Style"
+msgstr "Umfragestil"
+
+#: backend/it_epoll_poll_metaboxes.php:78
+msgid "Multi Voting "
+msgstr "Mehrfachabstimmung"
+
+#: backend/it_epoll_poll_metaboxes.php:88
+msgid "Container Gradient"
+msgstr "Behältergradient"
+
+#: backend/it_epoll_poll_metaboxes.php:92
+msgid "Secondary Color"
+msgstr "Sekundäre Farbe"
+
+#: backend/it_epoll_poll_metaboxes.php:101
+msgid "Button & Progress Bar Style"
+msgstr "Schaltflächen- und Fortschrittsbalkenstil"
+
+#: backend/it_epoll_poll_metaboxes.php:151
+msgid "Option Name"
+msgstr "Optionsname"
+
+#: backend/it_epoll_poll_metaboxes.php:157
+msgid "Option Image"
+msgstr "Optionsbild"
+
+#: backend/it_epoll_poll_metaboxes.php:162
+#: backend/it_epoll_poll_metaboxes.php:170
+msgid "Upload"
+msgstr "Hochladen"
+
+#: backend/it_epoll_poll_metaboxes.php:166
+msgid "Option Cover Image"
+msgstr "Options-Abdeckungsbild"
+
+#: backend/it_epoll_poll_metaboxes.php:174
+msgid "Edit Vote Count / Result"
+msgstr "Bearbeiten Sie die Anzahl der Stimmen / das Ergebnis"
+
+#: backend/it_epoll_poll_metaboxes.php:195
+msgid "Add Option"
+msgstr "Option hinzufügen"
+
+#: backend/it_epoll_poll_metaboxes.php:201
+msgid ""
+"Developed & Designed By <a href=\"http://www.infotheme.in\">InfoTheme Inc.</"
+"a> | For Customization <a href=\"https://infotheme.in/#contact\">Hire Us "
+"Today</a> | <a href=\"http://infotheme.in/products/plugins/epoll-wp-voting-"
+"system/#forum\">Support / Live Chat</a> | <a href=\"http://infotheme.in/"
+"products/plugins/epoll-wp-voting-system/#docs\">Documentation</a>"
+msgstr ""
+"Entwickelt und entworfen von <a href=\"http://www.infotheme.in\">InfoTheme "
+"Inc. </a> | <a href=\"https://infotheme.in/#contact\"> Beauftragen Sie uns "
+"noch heute </a> | <a href=\"http://infotheme.in/products/plugins/epoll-wp-"
+"voting-system/#forum\">Live-Chat unterstützen</a> | <a href=\"http://"
+"infotheme.in/products/plugins/epoll-wp-voting-system/#docs\"> Dokumentation "
+"</a>"
+
+#: backend/it_epoll_widget.php:18
+msgid "Add A Poll - Epoll"
+msgstr "Umfrage hinzufügen - Epoll"
+
+#: backend/it_epoll_widget.php:21
+msgid "Add Poll via widget in sidebar"
+msgstr "Umfrage per Widget in der Seitenleiste hinzufügen"
+
+#: backend/it_epoll_widget.php:55
+msgid "Select A Poll:"
+msgstr "Wählen Sie eine Umfrage aus:"
+
+#: backend/it_epoll_widget.php:84
+msgid "Poll Style in Widget:"
+msgstr "Umfragestil im Widget:"
+
+#: frontend/it_epoll_poll-template.php:162 frontend/it_epoll_poll.php:187
+msgid ""
+"<p class=\"it_epoll_short_code\">Please add some questions or may be you "
+"missed the option field.</p><br><a href=\""
+msgstr ""
+
+#: frontend/it_epoll_poll-template.php:164 frontend/it_epoll_poll.php:189
+msgid ""
+"<p class=\"it_epoll_short_code\">This Poll is not yet ready contact site "
+"administrator</p>"
+msgstr ""
+"<p class=\"it_epoll_short_code\">Diese Umfrage ist noch nicht fertig. "
+"Wenden Sie sich an den Site-Administrator</p>"

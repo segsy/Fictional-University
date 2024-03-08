@@ -1,0 +1,145 @@
+[17-Jul-2022 06:47:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[17-Jul-2022 06:47:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[17-Jul-2022 06:47:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[17-Jul-2022 06:47:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[17-Jul-2022 07:24:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function greet(), 1 passed in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\index.php on line 5 and exactly 2 expected in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\index.php:2
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\index.php(5): greet('John')
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\index.php on line 2
+[21-Jul-2022 02:11:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[21-Jul-2022 02:11:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[21-Jul-2022 02:11:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[21-Jul-2022 02:11:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Aug-2022 15:52:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Aug-2022 15:52:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Aug-2022 15:52:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[10-Aug-2022 15:52:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[12-Aug-2022 03:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:14
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\index.php(5): pageBanner(Array)
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 14
+[12-Aug-2022 03:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:10
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\page.php(7): pageBanner()
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 10
+[12-Aug-2022 03:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:10
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\page.php(7): pageBanner()
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 10
+[13-Aug-2022 22:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:10
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\page.php(7): pageBanner()
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 10
+[13-Aug-2022 22:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:10
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\page.php(7): pageBanner()
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 10
+[13-Aug-2022 23:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php:10
+Stack trace:
+#0 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\page.php(7): pageBanner()
+#1 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#3 C:\Users\User\Local Sites\fictionaluniversity\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#4 {main}
+  thrown in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\themes\fictional-univerity-theme\functions.php on line 10
+[13-Aug-2022 23:14:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[13-Aug-2022 23:14:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[13-Aug-2022 23:14:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[13-Aug-2022 23:14:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (The specified module could not be found.), C:/Users/User/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found.)) in Unknown on line 0
+[17-Oct-2022 03:44:40 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php on line 309
+[17-Oct-2022 03:44:40 UTC] PHP Stack trace:
+[17-Oct-2022 03:44:40 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:44:40 UTC] PHP   2. edit_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:227
+[17-Oct-2022 03:44:40 UTC] PHP   3. wp_update_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:426
+[17-Oct-2022 03:44:40 UTC] PHP   4. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4775
+[17-Oct-2022 03:44:40 UTC] PHP   5. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4642
+[17-Oct-2022 03:44:40 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:44:40 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:44:40 UTC] PHP   8. wp_save_post_revision() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:44:40 UTC] PHP   9. _wp_put_post_revision() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\revision.php:190
+[17-Oct-2022 03:44:40 UTC] PHP  10. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\revision.php:334
+[17-Oct-2022 03:44:40 UTC] PHP  11. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4673
+[17-Oct-2022 03:44:40 UTC] PHP  12. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:44:40 UTC] PHP  13. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:44:40 UTC] PHP  14. it_epoll_save_options() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:44:40 UTC] PHP  15. array_map() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309
+[17-Oct-2022 03:44:41 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php on line 309
+[17-Oct-2022 03:44:41 UTC] PHP Stack trace:
+[17-Oct-2022 03:44:41 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:44:41 UTC] PHP   2. edit_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:227
+[17-Oct-2022 03:44:41 UTC] PHP   3. wp_update_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:426
+[17-Oct-2022 03:44:41 UTC] PHP   4. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4775
+[17-Oct-2022 03:44:41 UTC] PHP   5. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4673
+[17-Oct-2022 03:44:41 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:44:41 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:44:41 UTC] PHP   8. it_epoll_save_options() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:44:41 UTC] PHP   9. array_map() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309
+[17-Oct-2022 03:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309) in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\pluggable.php on line 1421
+[17-Oct-2022 03:44:41 UTC] PHP Stack trace:
+[17-Oct-2022 03:44:41 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:44:41 UTC] PHP   2. redirect_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:234
+[17-Oct-2022 03:44:41 UTC] PHP   3. wp_redirect() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:2077
+[17-Oct-2022 03:44:41 UTC] PHP   4. header() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\pluggable.php:1421
+[17-Oct-2022 03:44:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309) in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\pluggable.php on line 1424
+[17-Oct-2022 03:44:41 UTC] PHP Stack trace:
+[17-Oct-2022 03:44:41 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:44:41 UTC] PHP   2. redirect_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:234
+[17-Oct-2022 03:44:41 UTC] PHP   3. wp_redirect() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:2077
+[17-Oct-2022 03:44:41 UTC] PHP   4. header() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\pluggable.php:1424
+[17-Oct-2022 03:56:27 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php on line 309
+[17-Oct-2022 03:56:27 UTC] PHP Stack trace:
+[17-Oct-2022 03:56:27 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:56:27 UTC] PHP   2. edit_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:227
+[17-Oct-2022 03:56:27 UTC] PHP   3. wp_update_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:426
+[17-Oct-2022 03:56:27 UTC] PHP   4. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4775
+[17-Oct-2022 03:56:27 UTC] PHP   5. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4673
+[17-Oct-2022 03:56:27 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:56:27 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:56:27 UTC] PHP   8. it_epoll_save_options() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:56:27 UTC] PHP   9. array_map() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309
+[17-Oct-2022 03:57:39 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php on line 309
+[17-Oct-2022 03:57:39 UTC] PHP Stack trace:
+[17-Oct-2022 03:57:39 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:57:39 UTC] PHP   2. edit_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:227
+[17-Oct-2022 03:57:39 UTC] PHP   3. wp_update_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:426
+[17-Oct-2022 03:57:39 UTC] PHP   4. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4775
+[17-Oct-2022 03:57:39 UTC] PHP   5. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4673
+[17-Oct-2022 03:57:39 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:57:39 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:57:39 UTC] PHP   8. it_epoll_save_options() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:57:39 UTC] PHP   9. array_map() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309
+[17-Oct-2022 03:58:47 UTC] PHP Warning:  array_map(): Expected parameter 2 to be an array, null given in C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php on line 309
+[17-Oct-2022 03:58:47 UTC] PHP Stack trace:
+[17-Oct-2022 03:58:47 UTC] PHP   1. {main}() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:0
+[17-Oct-2022 03:58:47 UTC] PHP   2. edit_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\post.php:227
+[17-Oct-2022 03:58:47 UTC] PHP   3. wp_update_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-admin\includes\post.php:426
+[17-Oct-2022 03:58:47 UTC] PHP   4. wp_insert_post() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4775
+[17-Oct-2022 03:58:47 UTC] PHP   5. do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\post.php:4673
+[17-Oct-2022 03:58:47 UTC] PHP   6. WP_Hook->do_action() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\plugin.php:476
+[17-Oct-2022 03:58:47 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:331
+[17-Oct-2022 03:58:47 UTC] PHP   8. it_epoll_save_options() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-includes\class-wp-hook.php:309
+[17-Oct-2022 03:58:47 UTC] PHP   9. array_map() C:\Users\User\Local Sites\fictionaluniversity\app\public\wp-content\plugins\epoll-wp-voting\backend\it_epoll_poll_metaboxes.php:309
